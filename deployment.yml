@@ -16,3 +16,4 @@ spec:
    containers:
    - name: myweb-con
      image: ajay89/phpweb:v1
+     imagePullPolicy: Always
