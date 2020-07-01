@@ -1,9 +1,9 @@
 <pre>
 <?php
 print("this is my website");
+print `ifconfig`;
 ?>
 </pre>
-Hello
-hy
+HAR HAR MAHADEV
 
 
